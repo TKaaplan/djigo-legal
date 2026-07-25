@@ -1,3 +1,5 @@
+**Türkçe** · [English](en/)
+
 # Djigo Gizlilik Politikası
 
 **Son güncelleme:** 25 Temmuz 2026
@@ -105,6 +107,10 @@ yanıt veririz.
 Cihazındaki tüm verileri silmek için uygulamayı kaldırmanız yeterlidir.
 Reklam kimliğini sıfırlamak için: Android → Ayarlar > Google > Reklamlar;
 iOS → Ayarlar > Gizlilik ve Güvenlik > İzleme.
+
+Türkiye'deysen KVKK kapsamında Kişisel Verileri Koruma Kurumu'na, Avrupa Ekonomik
+Alanı veya Birleşik Krallık'taysan yerel veri koruma otoritesine şikayette
+bulunma hakkın da vardır.
 
 ## 7. Çocukların gizliliği
 
